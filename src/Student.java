@@ -124,6 +124,8 @@ public class Student
         System.out.println("Name and last name: "+ this.nameAndLast());
         System.out.println("LU: " + this.getLU() + "\t" + "Grades: " + this.getGrade1() + "-" + this.getGrade2());
         System.out.println("Average: " + this.average() + "-" + this.approveLegend());
+        System.out.println("esto se imprimio desde ramita");
+
     }
 
 
